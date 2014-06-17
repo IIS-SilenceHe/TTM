@@ -1,0 +1,13 @@
+E:\VS2012_Projects\FolderMonitor\MonitorFolder\bin\Debug\MonitorFolder.exe.config
+E:\VS2012_Projects\FolderMonitor\MonitorFolder\bin\Debug\MonitorFolder.exe
+E:\VS2012_Projects\FolderMonitor\MonitorFolder\bin\Debug\MonitorFolder.pdb
+E:\VS2012_Projects\FolderMonitor\MonitorFolder\obj\Debug\MonitorFolder.exe
+E:\VS2012_Projects\FolderMonitor\MonitorFolder\obj\Debug\MonitorFolder.pdb
+E:\VS2012_Projects\FolderMonitor\MonitorFolder\obj\Debug\MonitorFolder.csprojResolveAssemblyReference.cache
+E:\VS2012_Projects\FolderMonitor - v2\MonitorFolder\bin\Debug\MonitorFolder.exe.config
+E:\VS2012_Projects\FolderMonitor - v2\MonitorFolder\bin\Debug\MonitorFolder.exe
+E:\VS2012_Projects\FolderMonitor - v2\MonitorFolder\bin\Debug\MonitorFolder.pdb
+E:\VS2012_Projects\FolderMonitor - v2\MonitorFolder\obj\Debug\MonitorFolder.Notify.resources
+E:\VS2012_Projects\FolderMonitor - v2\MonitorFolder\obj\Debug\MonitorFolder.csproj.GenerateResource.Cache
+E:\VS2012_Projects\FolderMonitor - v2\MonitorFolder\obj\Debug\MonitorFolder.exe
+E:\VS2012_Projects\FolderMonitor - v2\MonitorFolder\obj\Debug\MonitorFolder.pdb
