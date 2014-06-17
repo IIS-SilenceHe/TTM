@@ -61,7 +61,7 @@ namespace CheckPathAfterCtrlC
                 {
                     TextInClipborard.Text = "Could not retrieve text data from the clipboard!";
                     TextInClipborard.BackColor = Color.Yellow;
-                    Message.Text = "The data in clipboard is not Text format, please try again!";
+                    Message.Text = "The data in clipboard is not Text format, please try a valid path!";
                 }
             }
             
@@ -80,7 +80,7 @@ namespace CheckPathAfterCtrlC
             else 
             {
                 TextInClipborard.BackColor = Color.Red;
-                Message.Text = "The path is invalid!";
+                Message.Text = "The path is invalid or you have no permission to access it!";
             }
         }
     }   
