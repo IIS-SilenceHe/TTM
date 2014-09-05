@@ -1,4 +1,5 @@
-﻿function New-Password
+﻿# Reference: http://powershell.com/cs/blogs/tips/archive/2010/12/13/create-random-passwords.aspx
+function New-Password
 {
    Param
    (
